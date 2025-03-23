@@ -3,6 +3,7 @@ A simple LED sign made for the apartment for me and my friends, indicating if th
 
 # Introduction
 The idea was, that me and the 5 other guys I live with wanted a way to tell if the living room was occupied, so that we didn't disturb anyone that wouldn't want to be disturbed. So I made a simple LED sign that is mounted over the door, plugged into the wall, and with cables running througt the door to the switch module on the inside of the door.
+See the battery-powered version [here](https://github.com/tobiashellerslien/TTP_LED_sign_battery_powered/tree/main).
 
 # Parts
 You will need:
